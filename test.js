@@ -1,6 +1,8 @@
 function teste(){
 
-    alert ('teste');
+    alert ('teste')
+
+    console.log(callback)
 
 
 }
